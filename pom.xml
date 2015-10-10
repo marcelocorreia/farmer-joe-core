@@ -53,7 +53,7 @@
 						<keepBranch>false</keepBranch>
 						<noTag>false</noTag>
 						<flowInitContext>
-							<masterBranchName>master</masterBranchName>
+							<masterBranchName>rel</masterBranchName>
 							<developBranchName>master</developBranchName>
 							<featureBranchPrefix>feature-</featureBranchPrefix>
 							<releaseBranchPrefix>release-</releaseBranchPrefix>
